@@ -2,10 +2,6 @@
 Overview
 The Hidden Treasure Game  inspired by Minesweeper. Players navigate a grid to uncover treasures while avoiding obstacles. Each treasure found grants extra lives, and obstacles reduce lives if clicked. 
 
-
-How to Play
-Start the Game: Click the "Start Game" button to begin your adventure. A storyline will introduce the game, and then the game board will appear.
-
 Gameplay:
 
 Click Tiles: Click on tiles to uncover either treasures or obstacles. Safe tiles may reveal empty spaces.
